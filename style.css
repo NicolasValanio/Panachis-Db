@@ -1,0 +1,331 @@
+html{
+    min-height: 100%;
+}
+body{
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+ 
+
+}
+
+.headerbg{
+    width: 100%;
+    height: 8rem;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+main{
+    display: flex;
+}
+h1{
+    font-size: 4rem;
+ color: goldenrod;
+ margin: 0%;
+ padding-left: 1rem;
+ padding-top: 1rem;
+ font-family: 'DynaPuff', cursive;
+ font-family: 'PT Serif', serif;
+ font-weight: lighter;
+ 
+}
+ul{
+    margin: 0;
+}
+li{
+    margin: 1rem;
+    color: yellow;
+    font-size: 2rem;
+}
+a{
+    font-size: 2rem;
+    text-decoration: none;
+    color: blue;
+}
+.navegacion{
+    width: 350px;
+    height: 100%;
+    background-color: rgb(149, 149, 149);
+}
+
+.titulo1{
+    font-size: 2rem;
+    text-align:left;
+    color: blue;
+    padding-left: 1rem;
+}
+.text1{
+    font-size: 1.5rem;
+    text-align: justify;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.contenedor{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.img-1{
+    width: 700px;
+    height: 400px;
+    background-image: url(./img/1.jpg);
+    background-position: center;
+    background-size: cover;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+
+}
+
+
+.barra-entrada{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img-E1{
+    width: 400px;
+    height: 400px;
+    background-image: url(./img/E1.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+
+.img-E2{
+    width: 400px;
+    height: 400px;
+    background-image: url(./img/E2.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+
+
+.primera-barra{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img-2{
+    width: 400px;
+    height: 400px;
+    background-image: url(./img/2.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+.img-3{
+    width: 400px;
+    height: 400px;
+    background-image:url(./img/3.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+    
+}
+
+.segunda-barra{
+    display: flex;
+    justify-content: space-evenly;
+}
+.img-4{
+    width: 400px;
+    height: 400px;
+    background-image:url(./img/4.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+.img-5{
+    width: 400px;
+    height: 400px;
+    background-image:url(./img/5.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+
+
+.tercera-barra{
+    display: flex;
+    justify-content: space-evenly;
+}
+.img-6{
+    width: 400px;
+    height: 400px;
+    background-image:url(./img/6.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+.img-7{
+    width: 400px;
+    height: 400px;
+    background-image:url(./img/7.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+
+.cuarta-barra{
+    display: flex;
+    justify-content: space-evenly;
+}
+.img-8{
+    width: 400px;
+    height: 400px;
+    background-image:url(./img/8.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+
+.img-9{
+    width: 400px;
+    height: 400px;
+    background-image:url(./img/9.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+
+.quinta-barra{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img-10{
+    width: 400px;
+    height: 400px;
+    background-image:url(./img/10.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+
+.img-11{
+    width: 400px;
+    height: 400px;
+    background-image:url(./img/11.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+.sexta-barra{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img-12{
+    width: 400px;
+    height: 400px;
+    background-image:url(./img/12.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+
+.img-13{
+    width: 400px;
+    height: 400px;
+    background-image:url(./img/13.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+
+
+.septima-barra{
+    display: flex;
+    justify-content: space-evenly;
+}
+.img-14{
+    width: 400px;
+    height: 400px;
+    background-image:url(./img/14.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+.img-15{
+    width: 400px;
+    height: 400px;
+    background-image:url(./img/15.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+
+.octava-barra{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img-16{
+    width: 400px;
+    height: 400px;
+    background-image:url(./img/16.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+
+.img-17{
+    width: 400px;
+    height: 400px;
+    background-image:url(./img/17.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 1rem;
+    margin: 1rem;
+    box-shadow: 0 0 15px 0 black;
+}
+
+.footer{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(190, 189, 189);
+}
+.text-footer{
+    margin: 0;
+    padding: 1rem;
+    text-align: center;
+    font-size: 1.5rem;
+}
